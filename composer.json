@@ -1,0 +1,19 @@
+{
+    "name": "wangyuming92/dyapi",
+    "description": "6666",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wangyuming92\\Dyapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mr.Wang",
+            "email": "1256876753@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
